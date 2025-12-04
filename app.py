@@ -3,3 +3,5 @@ def add(a, b):
 
 if __name__ == "__main__":
     print("Sum:", add(5, 10))
+
+# Triggering CI workflow
